@@ -1,6 +1,6 @@
-## 🌐 Meus Sites Favoritos
+# 🌐 Meus Sites Favoritos
 
-# 📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Esta atividade tem como objetivo desenvolver uma página web utilizando HTML para apresentar cinco sites favoritos. A página contém o nome de cada site, uma imagem representativa e um link para acessá-lo.
 
